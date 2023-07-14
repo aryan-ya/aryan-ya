@@ -3,7 +3,7 @@
 <img align ="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-ya&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-ya" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Developer**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **ay3978943@gmail.com**
 
