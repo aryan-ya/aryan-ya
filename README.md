@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aryan Kumar Yadav</h1>
 <h3 align="center">A passionate full Stack Web developer from India</h3>
-<img align ="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-ya&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-ya" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Developer**
+
+- 👨‍💻 All of my projects are available at [https://aryansportfolio12.netlify.app](https://aryansportfolio12.netlify.app)
+
+- 💬 Ask me about **Html Css Javascript React Nodejs Express**
 
 - 📫 How to reach me **ay3978943@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1trlhJjmwXHJ69liFLfPyDt-eNGpotA39jbFfsxvY0PM/edit?usp=sharing](https://docs.google.com/document/d/1trlhJjmwXHJ69liFLfPyDt-eNGpotA39jbFfsxvY0PM/edit?usp=sharing)
+
+- ⚡ Fun fact **I m always happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
