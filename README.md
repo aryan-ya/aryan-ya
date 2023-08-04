@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Kumar Yadav</h1>
 <h3 align="center">A passionate full Stack Web developer from India</h3>
-<img align= "right  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Ftyresswhite%2Fcoding-animations%2F&psig=AOvVaw0g9rdHhZupRnq5OmHcXaLg&ust=1691239929783000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDM7uqFw4ADFQAAAAAdAAAAABAE"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-ya&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-ya" /> </p>
 
