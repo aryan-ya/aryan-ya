@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://aryansportfolio12.netlify.app](https://aryansportfolio12.netlify.app)
+- 👨‍💻 All of my projects are available at [https://portfolio-aryan-ya.vercel.app/](https://portfolio-aryan-ya.vercel.app/)
 
 - 💬 Ask me about **Html Css Javascript React Nodejs Express**
 
