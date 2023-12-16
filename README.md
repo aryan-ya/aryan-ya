@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=aryan-ya&label=Profile%20views&color=0e75b6&style=flat)
 # Hi there, I'm Aryan Kumar Yadav 👋
 <img align="right" width="400" alt="coding.gif" src="https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg">
 
@@ -40,7 +41,6 @@ Design a sleek website with HTML, CSS, JS, and Bootstrap for a responsive, visua
 
 ## GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryan-ya&label=Profile%20views&color=0e75b6&style=flat)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aryan-ya&show_icons=true&locale=en&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan-ya&show_icons=true&locale=en)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan-ya)
