@@ -4,9 +4,9 @@
 
 ## About Me
 
-I'm a passionate frontend developer currently working at Tecvolo Labs. I specialize in building responsive and user-friendly web applications.
+I'm a passionate FRONTEND DEVELOPER currently working at Tecvolo Labs. I specialize in building responsive and user-friendly web applications.
 
-- 🌱 I’m currently learning **[any specific technology or skill relevant to your current role]**
+- 🌱 I’m currently learning **[MERN STACK WEB DEVELOPMENT]**
 - 👨‍💻 Check out my work at [Tecvolo Labs](https://www.tecvolo.com/)
 - 💬 Ask me about **HTML, CSS, JavaScript, React, and more!**
 - 📫 How to reach me: [ay3978943@gmail.com](mailto:ay3978943@gmail.com)
