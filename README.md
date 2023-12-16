@@ -35,7 +35,7 @@ Craft a fully responsive e-commerce website using HTML, CSS, and JS. Seamlessly 
 
 Create a robust food delivery app using HTML, CSS, JS, and React, integrating the Swiggy API for real-time data. Deliver an immersive culinary experience with responsive design and dynamic content.
 
-###  [Bootstrap Restaurant](https://bootstrap-restaurant-website.vercel.app/))
+###  [Bootstrap Restaurant](https://bootstrap-restaurant-website.vercel.app/)
 
 Design a sleek website with HTML, CSS, JS, and Bootstrap for a responsive, visually appealing interface. Elevate user experience with Bootstrap's components, ensuring a seamless and polished web presence.
 
