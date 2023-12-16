@@ -6,7 +6,7 @@
 
 **I'm a passionate FRONTEND DEVELOPER currently working at Tecvolo Labs. I specialize in building responsive and user-friendly web applications.**
 
-- 🌱 I’m currently learning **[MERN STACK WEB DEVELOPMENT]**
+- 🌱 I’m currently learning [MERN STACK WEB DEVELOPMENT]
 - 👨‍💻 Check out my work at [Tecvolo Labs](https://www.tecvolo.com/)
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Bootstrap and Tailwind!**
 - 📫 How to reach me: [ay3978943@gmail.com](mailto:ay3978943@gmail.com)
