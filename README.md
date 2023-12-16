@@ -45,8 +45,4 @@ Design a sleek website with HTML, CSS, JS, and Bootstrap for a responsive, visua
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan-ya&show_icons=true&locale=en)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan-ya)
 
-## Let's Connect
 
-Feel free to reach out if you want to discuss web development, collaborate on a project, or just chat about technology!
-
-- [Email](mailto:ay3978943@gmail.com)
