@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aryan-ya&label=Profile%20views&color=0e75b6&style=flat)
 # Hi There, I'm Aryan Kumar Yadav 👋
-<img align="right" width="400" alt="coding.gif" src="https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg">
+
 
 ## About Me
 
