@@ -12,7 +12,7 @@
 - 📫 How to reach me: [ay3978943@gmail.com](mailto:ay3978943@gmail.com)
 - ⚡ Fun fact: **I'm always happy**
 
-## Connect with Me
+## Connect with Me 
 
 - [LinkedIn](https://www.linkedin.com/in/aryan790/)
 - [Instagram](https://instagram.com/aryan_yadav746)
