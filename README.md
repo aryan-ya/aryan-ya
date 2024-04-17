@@ -15,7 +15,6 @@
 ## Connect with Me 
 
 - [LinkedIn](https://www.linkedin.com/in/aryan790/)
-- [Instagram](https://instagram.com/aryan_yadav746)
 
 ## Skills
 
