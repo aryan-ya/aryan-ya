@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aryan-ya&label=Profile%20views&color=0e75b6&style=flat)
-# Hi There, I'm Aryan Kumar Yadav 👋
+# Hi There, I'm Aryan 👋
 
 
 ## Software Developer
