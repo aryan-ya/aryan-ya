@@ -16,8 +16,8 @@
 
 - ## Connect with Me 
 
-- (https://www.linkedin.com/in/aryan790/) ![LinkedIn Icon](https://skillicons.dev/icons?i=linkedin)
-- 
+- [LinkedIn](https://www.linkedin.com/in/aryan790/) ![LinkedIn Icon](https://skillicons.dev/icons?i=linkedin)
+  
 
 
 ## Skills
