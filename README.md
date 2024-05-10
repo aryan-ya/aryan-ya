@@ -14,7 +14,6 @@
 
 ## Connect with Me 
 
-- ## Connect with Me 
 - [LinkedIn](https://www.linkedin.com/in/aryan790/) 
 
   
