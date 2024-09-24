@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning [MERN STACK WEB DEVELOPMENT]
 - 👨‍💻 Check out my work at [Tecvolo Labs](https://www.tecvolo.com/)
-- 💬 Ask me about **Html, Css, JavaScript, React, NextJs, Bootstrap and Tailwind!**
+- 💬 Ask me about **Html, Css, JavaScript, React, NextJs, Bootstrap, Php, Wordpress, Mongo Db, Express js and Tailwind Css!**
 - 📫 How to reach me: [ay3978943@gmail.com](mailto:ay3978943@gmail.com)
 - ⚡ Fun fact: **I'm always happy**
 
