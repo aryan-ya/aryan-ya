@@ -4,7 +4,7 @@
 
 ## Software Developer
 
-**I'm a passionate Full Stack Web Developer currently working at Cypher Media Solutions, with 9 months of prior experience at Tecvolo Labs. I specialize in building responsive and user-friendly web applications.**
+**I'm a passionate Full Stack Web Developer currently working at Cypher Media Solutions, with 2 years 2 months of prior experience at Tecvolo Labs. I specialize in building responsive and user-friendly web applications.**
 
 - 🌱 I’m currently learning [MERN STACK WEB DEVELOPMENT]
 - 👨‍💻 Check out my work at [Tecvolo Labs](https://www.tecvolo.com/)
